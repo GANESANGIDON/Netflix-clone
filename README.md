@@ -1,4 +1,4 @@
-## Netflix-clone
+## Netflix Homepage Clone
 
 ### Clone of Netflix Homepage developed using HTML5, CSS3, JavaScript.
 
