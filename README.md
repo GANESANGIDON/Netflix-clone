@@ -1,6 +1,6 @@
-## Netflix Homepage Clone
+# Netflix Landingpage Clone
 
-### Clone of Netflix Homepage developed using HTML5, CSS3, JavaScript.
+### Clone of Netflix Landingpage developed using HTML5, CSS3, JavaScript.
 
 ### Deployed Link: https://ganesangidon.github.io/Netflix-clone/
 
